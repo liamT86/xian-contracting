@@ -202,4 +202,5 @@ violations = client.lint(contract_code)
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution‑NonCommercial 4.0 International - see the [LICENSE](LICENSE) file for details.
+Non‑commercial use only.  See LICENSE for details.
